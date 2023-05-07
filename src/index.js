@@ -11,7 +11,7 @@ import './core/i18n/i18n';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     // <React.StrictMode>
-        <BrowserRouter basename="goosetrack-team-project-front">
+        <BrowserRouter basename="react_node_fs_59_SerjKenri">
             <Provider store={store}>
                 <PersistGate loading={null} persistor={persistor}>
                     <ManageThemeProvider>
