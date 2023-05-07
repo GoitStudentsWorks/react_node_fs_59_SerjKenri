@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_59_SerjKenri/static/css/main.9228fb6a.css",
-    "main.js": "/react_node_fs_59_SerjKenri/static/js/main.18a1972f.js",
+    "main.js": "/react_node_fs_59_SerjKenri/static/js/main.033af222.js",
     "static/media/Inter-Bold.eot": "/react_node_fs_59_SerjKenri/static/media/Inter-Bold.7e9fff4114e0ea385c94.eot",
     "static/media/Inter-Bold.ttf": "/react_node_fs_59_SerjKenri/static/media/Inter-Bold.44e2216a9e0d20ee04b6.ttf",
     "static/media/Inter-SemiBold.eot": "/react_node_fs_59_SerjKenri/static/media/Inter-SemiBold.d7ced04b4dc4d21fd205.eot",
@@ -42,10 +42,10 @@
     "index.html": "/react_node_fs_59_SerjKenri/index.html",
     "static/media/getFetch.cjs": "/react_node_fs_59_SerjKenri/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.9228fb6a.css.map": "/react_node_fs_59_SerjKenri/static/css/main.9228fb6a.css.map",
-    "main.18a1972f.js.map": "/react_node_fs_59_SerjKenri/static/js/main.18a1972f.js.map"
+    "main.033af222.js.map": "/react_node_fs_59_SerjKenri/static/js/main.033af222.js.map"
   },
   "entrypoints": [
     "static/css/main.9228fb6a.css",
-    "static/js/main.18a1972f.js"
+    "static/js/main.033af222.js"
   ]
 }
